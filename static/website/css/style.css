@@ -199,7 +199,7 @@ select:-webkit-autofill {-webkit-box-shadow: 0 0 0 1000px #ffffff inset !importa
 .theme-bg select:-webkit-autofill {-webkit-box-shadow: 0 0 0 1000px #3C7F97 inset !important; -webkit-text-fill-color: #ffffff !important; transition: background-color 5000s ease-in-out 0s;}
 .dark-bg input:-webkit-autofill,
 .dark-bg textarea:-webkit-autofill,
-.dark-bg select:-webkit-autofill {-webkit-box-shadow: 0 0 0 1000px #0d092c inset !important; -webkit-text-fill-color: #ffffff !important; transition: background-color 5000s ease-in-out 0s;}
+.dark-bg select:-webkit-autofill {-webkit-box-shadow: 0 0 0 1000px #404040 inset !important; -webkit-text-fill-color: #ffffff !important; transition: background-color 5000s ease-in-out 0s;}
 
 
 
