@@ -6,7 +6,7 @@ from templated_email import send_templated_mail
 
 # Create your views here.
 def home(request):
-    return render(request, "maintenance.html", {})
+    return render(request, "home.html", {})
 
 
 def contact(request):
